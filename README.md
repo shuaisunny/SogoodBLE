@@ -1,2 +1,2 @@
-# sogoodble
-sogoodble-sogood ble,easyble use
+# SogoodBLE
+SogoodBLE,makes ble use easy.
